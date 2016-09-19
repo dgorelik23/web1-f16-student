@@ -1,0 +1,31 @@
+body {
+	font-family: Helvetica;
+	margin-left: 4em;
+	margin-top: 4em;
+}
+h1 {
+	font-size: 5em;
+	margin-left: 0em;
+}
+h2 {
+	font-size: 2.2em;
+	margin-top: 1em;
+	margin-bottom: 0.2em;
+}
+h3 {
+	font-size: 2.8em;
+	font-weight: normal;
+	font-style: italic;
+}
+p {
+	font-size: 1.2em;
+	line-height: 1.6em;
+	margin-bottom: 1.2em;
+	max-width: 40em;
+}
+
+code {
+	font-family: monospace;
+	font-size: 0.8em;
+	letter-spacing: .1em;
+}
