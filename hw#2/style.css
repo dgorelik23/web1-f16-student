@@ -1,13 +1,13 @@
 body {
 	font-family: Helvetica;
-	background-color:#F6F3F3;
+	background-color:#dfe2e1;
 	margin:0;}
 #body-text{
 	margin-left: 6em;
 	margin-bottom: 2em;}
 #header {
 	width:100%;
-	background-image:url('images/concert.jpg');
+	background-image:url('images/concert2.jpg');
 	background-size:cover;
 	background-position:center center;}
 h2, h3 { 
@@ -28,10 +28,10 @@ li a {
 	padding: 14px 16px;
 	text-decoration: none;}
 li a:hover {
-	    background-color: #900C3F;}
+	    background-color: #6fd0ac;}
 h1 {
 	color:#FFFFFF;
-	font-family: "Century Gothic";
+	font-family: "Helvetica";
 	font-size: 10em;
 	font-style: normal;
 	font-variant: normal;
