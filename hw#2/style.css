@@ -1,12 +1,13 @@
 body {
-	margin-left: 6em;
 	font-family: Helvetica;
-	background-color:#F6F3F3;}
-h1, h2, h3 { 
+	background-color:#F6F3F3;
+	margin:0;}
+h2, h3 { 
 	color:#900C3F;
-	font-family: DIN Condensed;}
+	font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif;}
 ul {
 	list-style-type: none;
+	margin-top: 0em;
     margin-left: -6em;
     padding-left: 6em;
     overflow: hidden;
@@ -21,21 +22,27 @@ li a {
 li a:hover {
 	    background-color: #900C3F;}
 h1 {
+	color:#FFFFFF;
+	font-family: "Century Gothic";
 	font-size: 10em;
+	font-style: normal;
+	font-variant: normal;
 	font-weight: bold;
-	text-align: center;}
+	line-height: 120px;
+	text-align: center;
+	margin:0;
+	padding:1em 0;}
 h2 {
-	margin-bottom:5em;
 	font-size: 2.5em;
+	margin-bottom:5em
 	font-weight: bold;}
 h3 {
 	font-size: 2.2em;
-	margin-bottom: 1em;
-	font-weight: bold;}
+	margin-bottom: 1em;}
 h4 {
 	color:#000000;
 	font-size: 1.7em;
-	font-family: DIN Condensed;
+	font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
 	margin-bottom: 0.4em;}
 p {
 	font-size: 1.2em;
@@ -54,9 +61,23 @@ tr {
 	text-align:left;}
 td {
 	text-align:left;}
-
+footer {
+	padding: 3em;
+	color: #FFFFFF;
+	background-color: #333333;
+    margin-left: -6em;
+    padding-left: 6em;
+	text-align: center;}
 code {
 	font-family: monospace;
 	font-size: 0.8em;
 	letter-spacing: .1em;
+}
+
+
+#header {
+	width:100%;
+	background-image:url('images/concert.jpg');
+	background-size:cover;
+	background-position:center center;
 }
