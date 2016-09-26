@@ -2,6 +2,14 @@ body {
 	font-family: Helvetica;
 	background-color:#F6F3F3;
 	margin:0;}
+#body-text{
+	margin-left: 6em;
+	margin-bottom: 2em;}
+#header {
+	width:100%;
+	background-image:url('images/concert.jpg');
+	background-size:cover;
+	background-position:center center;}
 h2, h3 { 
 	color:#900C3F;
 	font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif;}
@@ -9,7 +17,7 @@ ul {
 	list-style-type: none;
 	margin-top: 0em;
     margin-left: -6em;
-    padding-left: 6em;
+    padding-left: 12em;
     overflow: hidden;
     background-color: #333333;}
 li {
@@ -74,10 +82,3 @@ code {
 	letter-spacing: .1em;
 }
 
-
-#header {
-	width:100%;
-	background-image:url('images/concert.jpg');
-	background-size:cover;
-	background-position:center center;
-}
