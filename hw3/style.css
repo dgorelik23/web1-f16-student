@@ -1,0 +1,67 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+	background-color:#FFFFFF;
+	text-align: center;;}
+header {
+	width:100%;
+	background-position:center;
+	padding-bottom: 3em;}
+a:visited {
+	color:#8b9099;}
+ul a {
+	text-decoration: none;}
+ul li {
+	color:#8b9099;
+	display: inline;
+	margin-right: 3em;
+	letter-spacing: 0.3em;}
+li a:hover {
+	color:#FCC4C4;}
+h1 {
+	color:#76C7ED;
+	font-family: 'Montserrat', sans-serif;;
+	font-size: 3em;
+	line-height: 50px;
+	text-align: center;
+	letter-spacing: 10px;
+	padding-top: 1em;
+	padding-bottom: 1em;}
+h2, h3 { 
+	color:#76C7ED;
+	font-family: 'Montserrat', sans-serif;}
+h2 {
+	font-size: 1.5em;
+	letter-spacing: 2px;
+	margin-bottom: 1.3em}
+h3 {
+	font-size: 2.2em;
+	margin-bottom: 1em;}
+p {
+	font-size: 1em;
+	line-height: 1.7em;
+	color: #8b9099;}
+.artwork {
+	margin: 15px;
+	float: left;}
+#source {
+	text-align: center;
+	padding: 2em;}
+#artistpic {
+	margin-top: 2em;
+	padding: 2em;}
+#body-text {
+	text-align: justify;
+	margin-left: 18em;
+	max-width: 850px;}
+#subheader {
+	text-align: center;}
+.contactinfo {
+	letter-spacing: 0px;
+	padding: 2em;}
+footer {
+	font-size: 0.8em;
+	color:#C0C0C0;
+	text-align: center;
+	padding: 4em;}
+	
+
