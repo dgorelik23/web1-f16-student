@@ -1,4 +1,4 @@
 # web1-f16-student
-Example student repository
+David's Student Page
 
 <https://dgorelik23.github.io/web1-f16-student/>
