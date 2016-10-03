@@ -20,7 +20,7 @@ ul li {
 	margin-right: 3em;
 	letter-spacing: 0.3em;}
 li a:hover {
-	color:#FCC4C4;}
+	color: #FCC4C4;}
 h1 {
 	color:#76C7ED;
 	font-family: 'Montserrat', sans-serif;;
@@ -49,8 +49,7 @@ p {
 	float: left;}
 #artworks {
 	margin-left: auto;
-	margin-right:auto;
-}
+	margin-right: auto;}
 #source {
 	text-align: center;
 	padding: 2em;}
