@@ -8,13 +8,14 @@ h1 {
 	font-size: 2.5em;
 	padding-bottom: 0.5em;}
 p {
+	font-family: 'Open Sans', sans-serif;
 	line-height: 1.5em;}
 ul a {
 	text-decoration: none;
 	color: #E63946;}
 #main {
 	padding: 3em;
-	background-color: #F9F5ED;}
+	background-color: #FFFFFF;}
 #images {
 	margin-left: 5em;
 	margin-right: auto;}
