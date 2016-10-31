@@ -8,4 +8,28 @@ body {
 	
 p {
 	font-family: helvetica;
-	line-spacing: 2em;}
+	line-height: 1.7em;}
+
+ul a {
+	text-decoration: none;
+	margin-left: 0}
+
+li a:hover {
+	color: #55e5e8;}
+
+ul {
+	list-style-type: none;
+	line-height: 1.5em;
+	margin-left: -2.5em}
+
+nav {
+	display: inline-block;}
+
+a {
+	color: #38babc;}
+
+a:visited {
+	color: #38babc;}
+
+h1 a { 
+	text-decoration: none}
