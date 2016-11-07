@@ -1,5 +1,5 @@
 body {
-	font-family: Helvetica;
+	font-family: 'Open Sans', sans-serif;
 	background-color:#dfe2e1;
 	margin:0;}
 #body-text{
@@ -8,12 +8,12 @@ body {
 	max-width: 1200px}
 #header {
 	width:100%;
-	background-image:url('images/concert2.jpg');
+	background-image: url('images/concert2.jpg');
 	background-size:cover;
 	background-position:center center;}
 h2, h3 { 
 	color:#900C3F;
-	font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif;}
+	font-family: 'Rubik', sans-serif;}
 ul {
 	list-style-type: none;
 	margin-top: 0em;
@@ -24,6 +24,8 @@ ul {
 li {
 	float: left;}
 li a {
+	font-family: 'Rubik', sans-serif;
+	letter-spacing: 1px;
 	display: block;
 	color: white;
 	padding: 14px 16px;
@@ -32,8 +34,9 @@ li a:hover {
 	    background-color: #6fd0ac;}
 h1 {
 	color:#FFFFFF;
-	font-family: "Helvetica";
+	font-family: 'Rubik', sans-serif;
 	font-size: 10em;
+	letter-spacing: 10px;
 	font-style: normal;
 	font-variant: normal;
 	font-weight: bold;
@@ -48,11 +51,12 @@ h2 {
 h3 {
 	font-size: 2.2em;
 	margin-bottom: 1em;
-	line-height: 1.5em}
+	line-height: 1.5em;
+	letter-spacing: 3px;}
 h4 {
 	color:#000000;
 	font-size: 1.7em;
-	font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+	font-family: 'Rubik', sans-serif;
 	margin-bottom: -0.5em;}
 p {
 	font-size: 1.2em;
@@ -73,14 +77,10 @@ td {
 	text-align:left;}
 footer {
 	padding: 3em;
-	color: #FFFFFF;
+	color: gray;
 	background-color: #333333;
     margin-left: -6em;
     padding-left: 6em;
 	text-align: center;}
-code {
-	font-family: monospace;
-	font-size: 0.8em;
-	letter-spacing: .1em;
 }
 

@@ -57,6 +57,7 @@ abbr {
 	margin: 0; 
 	position: relative;
 	background-size: repeat;
+	min-width: 400px;
 	}
 
 .intro { 
@@ -114,7 +115,7 @@ header {
 	padding-top: 10px;
 	padding-left: 30px;
 	padding-right: 10px; 
-	margin-bottom: 40px;
+	margin-bottom: 0px;
 	}
 
 footer { 
@@ -129,7 +130,7 @@ footer a:link, footer a:visited {
 	margin-left: 600px; 
 	position: absolute; 
 	top: 60px; 
-	left: 500px;
+	right: 120px;
 	}
 .sidebar .wrapper { 
 	font: 10px 'Open Sans'; 
