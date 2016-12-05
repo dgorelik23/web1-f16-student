@@ -1,5 +1,5 @@
 body {
-	font-family: arial;
+	font-family: "proxima-nova";
 	background-color:#FFFFFF;
 	text-align: justify;
 	margin-left: 0em;
@@ -74,6 +74,21 @@ li a {
 	transition: .3s ease-in-out;}
 .container figure:hover img {
 	opacity: .5;}
+
+
+.image-container {
+	margin-top: 40px;}
+.image-container figure {
+	background-color: #FFFFFF;
+	padding-left: 100px;
+	margin: auto;}
+
+footer {
+	font-size: 12px;
+	color: #909090;
+	text-align: center;
+	padding: 3em;
+}
 
 /* https://css-tricks.com/snippets/css/clear-fix/ */
 .clearfix:after {
