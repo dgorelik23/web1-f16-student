@@ -1,0 +1,100 @@
+body {
+	font-family: "Brandon Grotesque";
+	background-color:#FFFFFF;
+	text-align: left;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0px;}
+
+header h1 {
+	font-family: "Brandon Grotesque";
+	color: #FFFFFF;
+	margin-left: 80px;
+	padding: none;
+	float: left;}
+
+h3{
+	font-family: "Brandon Grotesque";
+	letter-spacing: 1px;}
+
+.current, .current a {
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.nav {
+	float: right;
+	margin-top: 60px;
+}
+
+ul {
+	list-style-type: none;
+	margin-top: 2em;
+    margin-right: 160px;
+    overflow: hidden;
+    background-color: #d7ccff;}
+li {
+	float: left;
+	padding-left: 1em; 
+	padding-right: 1em;}
+li a {
+	font-family: "Brandon Grotesque";
+	font-weight: bold;
+	letter-spacing: 3px;
+	font-size: 20px;
+	display: block;
+	padding: 14px 16px;
+	text-decoration: none;}
+
+#page-wrap {
+     width: 800px;
+     margin: 0 auto;
+ 	 margin-bottom: 80px;}
+#page-wrap img {
+     padding-top:70px;
+     padding-bottom: :70px;}
+#page-wrap h1, p{
+     color: #7d63b2;}
+#page-wrap h1 {
+     font-size: 3em;} 
+
+.container {
+	margin-top: 40px;}
+.container figure {
+	background-color: #FFFFFF;
+	padding: 20px;}
+.container figure img {
+	opacity: 1;
+	transition: .3s ease-in-out;}
+.container figure:hover img {
+	opacity: .5;}
+
+
+.image-container {
+	margin-top: 40px;}
+.image-container figure {
+	background-color: #FFFFFF;
+	padding-left: 100px;
+	margin: auto;}
+
+footer {
+	font-size: 12px;
+	color: #909090;
+	text-align: center;
+	padding: 3em;
+}
+
+/* https://css-tricks.com/snippets/css/clear-fix/ */
+.clearfix:after {
+     visibility: hidden;
+     display: block;
+     font-size: 0;
+     content: " ";
+     clear: both;
+     height: 0;
+     }
+.clearfix { display: inline-block; 
+ background-color: #d7ccff;}
+/* start commented backslash hack \*/
+* html .clearfix { height: 1%; }
+.clearfix { display: block; }
+/* close commented backslash hack */

@@ -1,15 +1,19 @@
 body {
-	font-family: "proxima-nova";
+	font-family: "Gotham HTF";
 	background-color:#FFFFFF;
-	text-align: justify;
+	text-align: left;
 	margin-left: 0em;
 	margin-right: auto;
 	margin-top: 0px;}
 
 header h1 {
+	font-family: "Gotham HTF";
 	margin: 20px;
-	float: left;
-}
+	float: left;}
+
+h3{
+	font-family: "Gotham HTF";
+	letter-spacing: 1px;}
 
 #owl-demo .item img{
     display: block;
@@ -23,8 +27,7 @@ header h1 {
 }
 .nav {
 	float: right;
-	margin-top: 45px;
-}
+	margin-top: 45px;}
 
 ul {
 	list-style-type: none;
@@ -33,11 +36,11 @@ ul {
     overflow: hidden;
     background-color: #FFFFFF;}
 li {
-	float: right;
+	float: left;
 	padding-left: 1em; 
 	padding-right: 1em;}
 li a {
-	font-family: arial;
+	font-family: "Gotham HTF";
 	letter-spacing: 1px;
 	display: block;
 	color: black;
@@ -48,7 +51,8 @@ li a {
  	max-width: auto;
  	margin-top: 40px;}
 .about-container p{
-	max-width: 390px;
+	font-family: "Gotham HTF";
+	max-width: 425px;
 	line-height: 1.5em;}
 .about-container h2 {
 	margin-top: 50px;}
