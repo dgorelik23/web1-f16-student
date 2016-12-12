@@ -1,0 +1,337 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"padding-",
+				"padding-left"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"port",
+				"Portrait"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"PAD",
+				"padding-right"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"St",
+				"styletile"
+			],
+			[
+				"style",
+				"styletile"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"Archi",
+				"arch-diagram"
+			],
+			[
+				"flo",
+				"flood-color"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"backgro",
+				"background-size"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"size",
+				"font-size"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"background-c",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/davidgorelik/Desktop/Graphic Design/web1-f16-student/portfolio/style.css",
+		"/Users/davidgorelik/Desktop/Graphic Design/web1-f16-student/portfolio/projectpages/bird_page.html",
+		"/Users/davidgorelik/Desktop/Graphic Design/web1-f16-student/portfolio/projectpages/ambedo_page.html",
+		"/Users/davidgorelik/Desktop/Graphic Design/web1-f16-student/client site/index.html",
+		"/Users/davidgorelik/Desktop/Graphic Design/web1-f16-student/client site/animation.html",
+		"/Users/davidgorelik/Desktop/Graphic Design/web1-f16-student/client site/art.html",
+		"/Users/davidgorelik/Desktop/Graphic Design/web1-f16-student/client site/sound.html",
+		"/Users/davidgorelik/Desktop/Graphic Design/web1-f16-student/client site/contact.html",
+		"/Users/davidgorelik/Desktop/Graphic Design/web1-f16-student/client site/style.css",
+		"/Users/davidgorelik/Desktop/Graphic Design/web1-f16-student/portfolio/design.html",
+		"/Users/davidgorelik/Desktop/Graphic Design/web1-f16-student/portfolio/projectpages/grow_page.html",
+		"/Users/davidgorelik/Desktop/Graphic Design/web1-f16-student/portfolio/projectpages/portrait_page.html",
+		"/Users/davidgorelik/Desktop/Graphic Design/web1-f16-student/portfolio/projectpages/justice_page.html",
+		"/Users/davidgorelik/Desktop/Graphic Design/web1-f16-student/portfolio/projectpages/fish_page.html",
+		"/Users/davidgorelik/Desktop/Graphic Design/web1-f16-student/portfolio/about.html",
+		"/Users/davidgorelik/Desktop/Graphic Design/web1-f16-student/portfolio/index.html",
+		"/Users/davidgorelik/Desktop/Graphic Design/web1-f16-student/portfolio/illustration.html",
+		"/Users/davidgorelik/Desktop/Graphic Design/web1-f16-student/portfolio/images/croppedimages/justic_cropped.png",
+		"/Users/davidgorelik/Desktop/Graphic Design/web1-f16-student/portfolio/bootstrap-3.3.7-dist/css/bootstrap-theme.css",
+		"/Users/davidgorelik/Desktop/Graphic Design/web1-f16-student/index.html",
+		"/Users/davidgorelik/Desktop/Graphic Design/web1-f16-student/hw8/sketches.html",
+		"/Users/davidgorelik/Desktop/Graphic Design/web1-f16-student/hw8/index.html",
+		"/Users/davidgorelik/Desktop/Graphic Design/web1-f16-student/hw8/style.css",
+		"/Users/davidgorelik/Desktop/Graphic Design/web1-f16-student/hw8/arch-diagram.html",
+		"/Users/davidgorelik/Desktop/Graphic Design/web1-f16-student/hw8/goals.html",
+		"/Users/davidgorelik/Desktop/Graphic Design/web1-f16-student/hw8/inspiration.html",
+		"/Users/davidgorelik/Desktop/Graphic Design/web1-f16-student/hw4/style.css",
+		"/Users/davidgorelik/Desktop/Graphic Design/web1-f16-student/hw4/untitled folder/index.html",
+		"/Users/davidgorelik/Desktop/Graphic Design/web1-f16-student/hw2/style.css",
+		"/Users/davidgorelik/Desktop/Graphic Design/web1-f16-student/hw2/tickets.html",
+		"/Users/davidgorelik/Desktop/Graphic Design/web1-f16-student/hw2/index.html",
+		"/Users/davidgorelik/Desktop/Graphic Design/web1-f16-student/hw2/lineup.html",
+		"/Users/davidgorelik/Desktop/Graphic Design/web1-f16-student/hw2/directions.html",
+		"/Users/davidgorelik/Desktop/Graphic Design/web1-f16-student/hw7/style.css",
+		"/Users/davidgorelik/Desktop/Graphic Design/web1-f16/materials/examples/wk5/5-layout-sidebar-position-absolute/index.html",
+		"/Users/davidgorelik/Desktop/Graphic Design/web1-f16/materials/examples/wk5/5-layout-sidebar-position-absolute/normalize.css",
+		"/Users/davidgorelik/Desktop/Graphic Design/web1-f16/materials/examples/wk5/5-layout-sidebar-position-absolute/style.css",
+		"/Users/davidgorelik/Desktop/Graphic Design/web1-f16-student/hw7/index.html",
+		"/Users/davidgorelik/Downloads/index.html",
+		"/Users/davidgorelik/Downloads/style.css",
+		"/Users/davidgorelik/Desktop/Graphic Design/web1-f16-student/hw4/designprocess.html",
+		"/Users/davidgorelik/Desktop/Graphic Design/web1-f16-student/hw4/index.html",
+		"/Users/davidgorelik/Desktop/Graphic Design/web1-f16-student/hw4/clientmeetings.html",
+		"/Users/davidgorelik/Desktop/Graphic Design/web1-f16-student/hw4/clientinfo.html",
+		"/Users/davidgorelik/Desktop/Graphic Design/web1-f16-student/hw4/inspiration.html",
+		"/Users/davidgorelik/Desktop/Graphic Design/web1-f16-student/hw5/StyleTile1.pdf",
+		"/Users/davidgorelik/Desktop/Graphic Design/web1-f16-student/hw1/index.html",
+		"/Users/davidgorelik/Desktop/Graphic Design/web1-f16-student/hw4/images/clientmeeting_notes.tiff",
+		"/Users/davidgorelik/Desktop/Graphic Design/web1-f16-student/hw4/images/clientmeeting_notes.pdf",
+		"/Users/davidgorelik/Desktop/Graphic Design/web1-f16-student/hw3/index.html",
+		"/Users/davidgorelik/Desktop/Graphic Design/web1-f16/materials/examples/wk5/1-default/style.css",
+		"/Users/davidgorelik/Desktop/Graphic Design/web1-f16-student/hw3/style.css",
+		"/Users/davidgorelik/Desktop/Graphic Design/web1-f16-student/hw3/contact.html",
+		"/Users/davidgorelik/Desktop/Graphic Design/web1-f16-student/hw3/about.html",
+		"/Users/davidgorelik/Desktop/Graphic Design/web1-f16-student/hw3/artist_images/trannguyen.jpg",
+		"/Users/davidgorelik/Desktop/Graphic Design/web1-f16-student/hw3/shows.html",
+		"/Users/davidgorelik/Desktop/Graphic Design/web1-f16-student/hw#1/index.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "art.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 216.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
